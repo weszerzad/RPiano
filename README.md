@@ -31,7 +31,7 @@ When a piano key is clicked in the GUI, a note will be played out from the buzze
 The LED strip has 7 colors divided equally along its length. Each LED has this permanent color and will only light up when an applicable piano key is pressed
 
 ## Pinano GUI (made from Tkinter)
-![](https://imgur.com/mM3ve8S)
+![](https://i.imgur.com/mM3ve8S.png)
 
 ## Demo
 [Test out each piano key](https://youtu.be/HicM2cFlmWk)  
