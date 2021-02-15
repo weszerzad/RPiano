@@ -34,8 +34,8 @@ The LED strip has 7 colors divided equally along its length. Each LED has this p
 ![](https://i.imgur.com/06PxkaF.png)
 
 ## Demo
-![Test out each piano key](https://youtu.be/HicM2cFlmWk)  
-![Happy Birthday song demo](https://youtu.be/9z8fDm4T_ZU)
+[Test out each piano key](https://youtu.be/HicM2cFlmWk)  
+[Happy Birthday song demo](https://youtu.be/9z8fDm4T_ZU)
 
 ## References and credits
 1.	[Connect and Control WS2812 RGB LED Strips via Raspberry Pi](https://tutorials-raspberrypi.com/connect-control-raspberry-pi-ws2812-rgb-led-strips/)
